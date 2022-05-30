@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Barcode_Bluetooth</string>
+    <string name="scan">掃描條碼</string>
+    <string name="stopScan">停止掃描</string>
+    <string name="result">Result</string>
+    <string name="permissions">給予權限</string>
+    <string name="SQL_data">抓取清點財產紀錄</string>
+    <string name="catch_from_db_a">抓取資料庫物品資訊</string>
+    <string name="back">返回</string>
+    <string name="add">新增</string>
+    <string name="barcode">條碼編號</string>
+</resources>
